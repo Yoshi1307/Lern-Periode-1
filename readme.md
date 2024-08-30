@@ -8,11 +8,17 @@ Die Module sind bis jetzt noch nicht schwer und ich verstehe sie gut. Im Modul 3
 ## 23.8
 
 ## 30.8
-- [ ] Mit Programm vertrauter machen.
-- [ ] Eingabefeld Programmieren.
-- [ ] Ins Einagbefeld reinschreiben können.
-- [ ] Reaktion auf eingabe geben
+- [x] Mit Programm vertrauter machen.
+- [x] Eingabefeld Programmieren.
+- [x] Ins Einagbefeld reinschreiben können.
+- [x] Reaktion auf eingabe geben
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich eine Abfrage programmiert welche den Namen und das Alter abfrägt und die Eingabe ausgiebt. Ausserdem habe ich einen vergleich programmiert fürs Alter gegen Fussballer welchen ich in einen für die Grösse umwandle, da es mit Alter keinen Sinn macht weil die Erwachsen sind. Ich bin noch nicht ganz fertig mit umschreiben.
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+## 6.9
+- [] Bei falscher eingabe nicht abschalten 
+- [] Bei falscher eingabe, die Eingabe wiederholen können
+- [] Vergleich mit Schuhgrösse einfügen
+- [] Fakten zu den Spielern hinzuschreiben
+
+
