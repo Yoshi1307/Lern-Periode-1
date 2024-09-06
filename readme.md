@@ -23,3 +23,10 @@ Heute habe ich eine Abfrage programmiert welche den Namen und das Alter abfrägt
 
 Heute habe ich programmiert das wenn man zu klein oder zu grosse zahlen eingiebt, das es sich wiederholt. Es funktioniert noch nicht ganz, aber den Code habe ich einigermassen dafür. Manchmal stürtzt das Programm ab bei falschen eingaben. Der Text das man nochmal eingeben kann steht, man kann nur noch nichts eingeben und es stürtzt ab.
 
+## 13.9
+- [] Coden das es nicht mehr abstürtzt
+- [] Fakten zu den Spielern hinschreiben
+- [] Wiederholen können wenn man falsche sachen geschrieben haben
+- [] 
+
+
