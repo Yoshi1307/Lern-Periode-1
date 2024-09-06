@@ -17,8 +17,9 @@ Heute habe ich eine Abfrage programmiert welche den Namen und das Alter abfrägt
 
 ## 6.9
 - [ ] Bei falscher eingabe nicht abschalten 
-- [ ] Bei falscher eingabe, die Eingabe wiederholen können
-- [ ] Vergleich mit Schuhgrösse einfügen
+- [x] Bei falscher eingabe, die Eingabe wiederholen können
+- [x] Zu kleine und zu grosse Grössen ausschliessen
 - [ ] Fakten zu den Spielern hinzuschreiben
 
+Heute habe ich programmiert das wenn man zu klein oder zu grosse zahlen eingiebt, das es sich wiederholt. Es funktioniert noch nicht ganz, aber den Code habe ich einigermassen dafür. Manchmal stürtzt das Programm ab bei falschen eingaben. Der Text das man nochmal eingeben kann steht, man kann nur noch nichts eingeben und es stürtzt ab.
 
