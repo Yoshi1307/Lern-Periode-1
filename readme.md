@@ -25,8 +25,19 @@ Heute habe ich programmiert das wenn man zu klein oder zu grosse zahlen eingiebt
 
 ## 13.9
 - [] Coden das es nicht mehr abstürtzt
-- [] Fakten zu den Spielern hinschreiben
+- [x] Fakten zu den Spielern hinschreiben
 - [] Wiederholen können wenn man falsche sachen geschrieben haben
-- [] 
+- []
+
+Heute konnte ich nicht so gut arbeiten, da das Programm zuesrt nicht funktioniert hat. Ich konnte Fakten zu den Spielern hinzufügen es funktionert aber noch nicht da das Programm immernoch abstürtzt. Ich hoffe, das es nächstes mal funktioniert da ich es nicht geschafft habe. Es war komisch zuhause zu arbeiten.
+
+## 20.9
+- [] Coden das es nicht mehr abstürtzt
+- [] Fertig werden mit dem Programm
+- [] Wiederholen können wenn man falsche sachen geschrieben haben
+- []
+
+
+
 
 
