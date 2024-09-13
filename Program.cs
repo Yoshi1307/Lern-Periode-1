@@ -1,4 +1,6 @@
-﻿class Program
+﻿using System;
+
+class Program
 {
     static void Main()
     {
@@ -9,27 +11,28 @@
         Console.WriteLine("3. Yann Sommer");
         Console.WriteLine("4. Lionel Messi");
 
-
-        Console.Write("Ihre Auswahl (1-4): ");
-        string auswahl = Console.ReadLine();
-
-
         int FussballerGrösse;
+        string Fakt;
+
 
 
         switch (auswahl)
         {
             case "1":
                 FussballerGrösse = 187;
+                Fakt = "Ronaldo ist der Fussballspieler mit den meisten Toren, ganze 900";
                 break;
             case "2":
                 FussballerGrösse = 178;
+                Fakt = "Lamine Yamal ist der Jüngste Spieler, der jemals die EM gewann mit 17 Jahren und 1 Tag";
                 break;
             case "3":
                 FussballerGrösse = 183;
-                break;
+                Fakt = "Yann Sommer ist einer der besten Torhüter der Welt, obwohl er einer der kleinsten auf seiner Posizion ist";
+                    break;
             case "4":
                 FussballerGrösse = 170;
+                Fakt = "Lionel Messi ist der spieler mit den meisten Ballon d'ors";
                 break;
             default:
                 Console.WriteLine("Ungültige Auswahl. Das Programm wird beendet.");
@@ -43,8 +46,11 @@
         if (int.TryParse(eingabe, out int benutzerGrösse))
         {
             if (benutzerGrösse > 210 || benutzerGrösse < 130)
+            {
                 Console.WriteLine("Bitte geben Sie eine gültige Zahl als Grösse ein.");
-            else
+                return;
+            }
+
 
 
             if (benutzerGrösse > FussballerGrösse)
@@ -55,34 +61,16 @@
             {
                 Console.WriteLine("Sie sind kleiner als die bekannte Person.");
             }
-            else if (benutzerGrösse == FussballerGrösse)
+            else if (benutzerGrösse == FussballerGrösse) 
             {
                 Console.WriteLine("Sie sind genauso gross wie die bekannte Person.");
             }
         }
         else
         {
-            Console.WriteLine("Bitte geben Sie eine gültige Zahl als Grösse ein.");
-
-            Console.Write("Bitte geben Sie Ihre Grösse ein: ");
-
-            Console.ReadLine();
-
-            if (benutzerGrösse > FussballerGrösse)
-            {
-                Console.WriteLine("Sie sind grösser als die bekannte Person.");
-            }
-            else if (benutzerGrösse < FussballerGrösse)
-            {
-                Console.WriteLine("Sie sind kleiner als die bekannte Person.");
-            }
-            else if (benutzerGrösse == FussballerGrösse)
-            {
-                Console.WriteLine("Sie sind genauso gross wie die bekannte Person.");
-            }
+                Console.WriteLine("Ungültige Eingabe, bitte geben sie eine Zahl ein: ");
         }
-
     }
+}    
 
 
-}
