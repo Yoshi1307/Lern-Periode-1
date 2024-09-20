@@ -24,20 +24,23 @@ Heute habe ich eine Abfrage programmiert welche den Namen und das Alter abfrägt
 Heute habe ich programmiert das wenn man zu klein oder zu grosse zahlen eingiebt, das es sich wiederholt. Es funktioniert noch nicht ganz, aber den Code habe ich einigermassen dafür. Manchmal stürtzt das Programm ab bei falschen eingaben. Der Text das man nochmal eingeben kann steht, man kann nur noch nichts eingeben und es stürtzt ab.
 
 ## 13.9
-- [] Coden das es nicht mehr abstürtzt
+- [ ] Coden das es nicht mehr abstürtzt
 - [x] Fakten zu den Spielern hinschreiben
-- [] Wiederholen können wenn man falsche sachen geschrieben haben
-- []
+- [ ] Wiederholen können wenn man falsche sachen geschrieben haben
+- [ ]
 
 Heute konnte ich nicht so gut arbeiten, da das Programm zuesrt nicht funktioniert hat. Ich konnte Fakten zu den Spielern hinzufügen es funktionert aber noch nicht da das Programm immernoch abstürtzt. Ich hoffe, das es nächstes mal funktioniert da ich es nicht geschafft habe. Es war komisch zuhause zu arbeiten.
 
 ## 20.9
-- [] Coden das es nicht mehr abstürtzt
-- [] Fertig werden mit dem Programm
-- [] Wiederholen können wenn man falsche sachen geschrieben haben
-- []
+- [x] Coden das es nicht mehr abstürtzt
+- [ ] Fertig werden mit dem Programm
+- [ ] Wiederholen können wenn man falsche sachen geschrieben haben
+- [X] Fakten Anzeigen zu lassen
 
 
+Heute wurde ich mit Zwei der Drei Punkte fertig, die ich mir eingeschrieben habe. Zuerst habe ich das Abstürtzen behoben, indem ich die "Gewellten Klammern/}" richtug zugeordnet habe. Sie waren um eins verschoben und so hat nur ein gewisser Teil des Programms funktioniert. Danach habe ich gecodet, dass die Fakten angezeigt werden wenn man einen Spieler auswählt.
+
+### Programm Fertig 
 
 
 
