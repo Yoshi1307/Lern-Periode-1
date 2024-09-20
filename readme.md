@@ -27,7 +27,6 @@ Heute habe ich programmiert das wenn man zu klein oder zu grosse zahlen eingiebt
 - [ ] Coden das es nicht mehr abstürtzt
 - [x] Fakten zu den Spielern hinschreiben
 - [ ] Wiederholen können wenn man falsche sachen geschrieben haben
-- [ ]
 
 Heute konnte ich nicht so gut arbeiten, da das Programm zuesrt nicht funktioniert hat. Ich konnte Fakten zu den Spielern hinzufügen es funktionert aber noch nicht da das Programm immernoch abstürtzt. Ich hoffe, das es nächstes mal funktioniert da ich es nicht geschafft habe. Es war komisch zuhause zu arbeiten.
 
@@ -40,7 +39,11 @@ Heute konnte ich nicht so gut arbeiten, da das Programm zuesrt nicht funktionier
 
 Heute wurde ich mit Zwei der Drei Punkte fertig, die ich mir eingeschrieben habe. Zuerst habe ich das Abstürtzen behoben, indem ich die "Gewellten Klammern/}" richtug zugeordnet habe. Sie waren um eins verschoben und so hat nur ein gewisser Teil des Programms funktioniert. Danach habe ich gecodet, dass die Fakten angezeigt werden wenn man einen Spieler auswählt.
 
-### Programm Fertig 
+## Fertiges Projekt
+
+
+
+
 
 
 
