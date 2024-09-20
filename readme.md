@@ -45,7 +45,7 @@ Am Anfang habe ich ein ALter Vergleich mit verschiedenen Fussballern gemacht. Da
 ![grafik](https://github.com/user-attachments/assets/d42a1081-b74e-4a39-a9f8-d0ee9cc58a24)
 
 ## Gedanken-Spiegelung
-Am anfang habe ich es noch schwer gefunden eine eigenes Projekt zu schreiben, doch mit der Zeit wurde es Leichter. Ich wusste zwar nicht immer wie ich Probleme lösen kann aber nach einiger Zeit bin ich selber drauf gekommen oder wusste durch Videos wie ich es machen muss. Einige fehler davon werden mir wahrscheinlich nicht mehr passieren wie das abstürtzen, weil ich jetzt weis auf was ich achten muss, wenn es mittendrin Abstürtzt. Ich denke ich habe viel gelernt in diesem 
+Am anfang habe ich es noch schwer gefunden eine eigenes Projekt zu schreiben, doch mit der Zeit wurde es Leichter. Ich wusste zwar nicht immer wie ich Probleme lösen kann aber nach einiger Zeit bin ich selber drauf gekommen oder wusste durch Videos wie ich es machen muss. Einige fehler davon werden mir wahrscheinlich nicht mehr passieren wie das abstürtzen, weil ich jetzt weis auf was ich achten muss, wenn es mittendrin Abstürtzt.
 
 
 
