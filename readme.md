@@ -2,12 +2,12 @@
 
 23.8.24 bis 30.9.24
 
-## Grob-Planung ## 23.8
+## Grob-Planung 23.8.24
 Die Module sind bis jetzt noch nicht schwer und ich verstehe sie gut. Im Modul 319 lernen wir C# und im Modul 431 lernen wir im Moment den Unterschied zwischen Aufgaben, Aufträgen und Projekten. Da ich noch nicht programmieren kann, möchte ich mit C# eine Seite Programmieren wo man sich anmelden kann. Mit E-mail, Vor- und nachname und Passwort.
 
 
 
-## 30.8
+## 30.8.24
 - [x] Mit Programm vertrauter machen.
 - [x] Eingabefeld Programmieren.
 - [x] Ins Einagbefeld reinschreiben können.
@@ -15,7 +15,7 @@ Die Module sind bis jetzt noch nicht schwer und ich verstehe sie gut. Im Modul 3
 
 Heute habe ich eine Abfrage programmiert welche den Namen und das Alter abfrägt und die Eingabe ausgiebt. Ausserdem habe ich einen vergleich programmiert fürs Alter gegen Fussballer welchen ich in einen für die Grösse umwandle, da es mit Alter keinen Sinn macht weil die Erwachsen sind. Ich bin noch nicht ganz fertig mit umschreiben.
 
-## 6.9
+## 6.9.24
 - [ ] Bei falscher eingabe nicht abschalten 
 - [x] Bei falscher eingabe, die Eingabe wiederholen können
 - [x] Zu kleine und zu grosse Grössen ausschliessen
@@ -23,14 +23,14 @@ Heute habe ich eine Abfrage programmiert welche den Namen und das Alter abfrägt
 
 Heute habe ich programmiert das wenn man zu klein oder zu grosse zahlen eingiebt, das es sich wiederholt. Es funktioniert noch nicht ganz, aber den Code habe ich einigermassen dafür. Manchmal stürtzt das Programm ab bei falschen eingaben. Der Text das man nochmal eingeben kann steht, man kann nur noch nichts eingeben und es stürtzt ab.
 
-## 13.9
+## 13.9.24
 - [ ] Coden das es nicht mehr abstürtzt
 - [x] Fakten zu den Spielern hinschreiben
 - [ ] Wiederholen können wenn man falsche sachen geschrieben haben
 
 Heute konnte ich nicht so gut arbeiten, da das Programm zuerst nicht funktioniert hat. Ich konnte Fakten zu den Spielern hinzufügen es funktionert aber noch nicht da das Programm immernoch abstürtzt. Ich hoffe, das es nächstes mal funktioniert da ich es nicht geschafft habe. Es war komisch zuhause zu arbeiten.
 
-## 20.9
+## 20.9.24
 - [x] Coden das es nicht mehr abstürtzt
 - [ ] Fertig werden mit dem Programm
 - [ ] Wiederholen können wenn man falsche sachen geschrieben haben
