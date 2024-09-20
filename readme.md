@@ -41,6 +41,7 @@ Heute wurde ich mit Zwei der Drei Punkte fertig, die ich mir eingeschrieben habe
 
 ## Fertiges Projekt
 Am Anfang habe ich ein ALter Vergleich mit verschiedenen Fussballern gemacht. Da die Fussballer alle erwachsen sind, habe ich es in einen Grössenvergleich umgecodet. Ich habe begonnen unrealistische grössen auszuschliessen und danach habe ich die Antworten programmiert. Am Ende habe ich begonnen Fakten zu schreiben und dann habe ich sie in die Antworten eingefügt.
+
 ![grafik](https://github.com/user-attachments/assets/d42a1081-b74e-4a39-a9f8-d0ee9cc58a24)
 
 
